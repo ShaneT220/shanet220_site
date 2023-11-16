@@ -31,7 +31,7 @@ export default function Header() {
 						<li><a onClick={() => handleSectionClick("one")} className={section === "one" ? "active" : ""}>About</a></li>
 						<li><a onClick={() => handleSectionClick("two")} className={section === "two" ? "active" : ""}>My Technical Skills</a></li>
 						<li><a onClick={() => handleSectionClick("three")} className={section === "three" ? "active" : ""}>Personal Projects</a></li>
-						<li><a onClick={() => handleSectionClick("four")} className={section === "four" ? "active" : ""}>Contact</a></li>
+						{/* <li><a onClick={() => handleSectionClick("four")} className={section === "four" ? "active" : ""}>Contact</a></li> */}
 					</ul>
 				</nav>
 				<footer>
