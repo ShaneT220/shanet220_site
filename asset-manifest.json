@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shanet220_site/static/css/main.81bd760d.css",
-    "main.js": "/shanet220_site/static/js/main.4bca86ea.js",
+    "main.js": "/shanet220_site/static/js/main.485e0fbc.js",
     "static/js/787.b5b877c7.chunk.js": "/shanet220_site/static/js/787.b5b877c7.chunk.js",
     "static/media/milvus.gif": "/shanet220_site/static/media/milvus.cfe70530decbf24d61c1.gif",
     "static/media/fa-solid-900.svg": "/shanet220_site/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
@@ -29,15 +29,15 @@
     "static/media/icons8-java.svg": "/shanet220_site/static/media/icons8-java.6ed325d9d87e435b50b82e35a28b08e4.svg",
     "static/media/icons8-c.svg": "/shanet220_site/static/media/icons8-c.6d6fb336389f00b0ab4fc428dfa89e01.svg",
     "static/media/icons8-python.svg": "/shanet220_site/static/media/icons8-python.7655622a6703b223bb6ac999964c0b20.svg",
-    "static/media/icons8-javascript.svg": "/shanet220_site/static/media/icons8-javascript.1338f1bf05b26bba3816e7aaa695771c.svg",
     "index.html": "/shanet220_site/index.html",
+    "static/media/icons8-javascript.svg": "/shanet220_site/static/media/icons8-javascript.1338f1bf05b26bba3816e7aaa695771c.svg",
     "static/media/icons8-typescript.svg": "/shanet220_site/static/media/icons8-typescript.239aeb7d66a45f9c981de1a155774827.svg",
     "main.81bd760d.css.map": "/shanet220_site/static/css/main.81bd760d.css.map",
-    "main.4bca86ea.js.map": "/shanet220_site/static/js/main.4bca86ea.js.map",
+    "main.485e0fbc.js.map": "/shanet220_site/static/js/main.485e0fbc.js.map",
     "787.b5b877c7.chunk.js.map": "/shanet220_site/static/js/787.b5b877c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81bd760d.css",
-    "static/js/main.4bca86ea.js"
+    "static/js/main.485e0fbc.js"
   ]
 }
